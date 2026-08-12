@@ -133,6 +133,7 @@ pycparser==2.22
 pydantic==1.6.2
     # via ctfd
 pymysql==1.1.1
+psycopg2-binary==2.9.6
     # via ctfd
 python-dateutil==2.9.0.post0
     # via
